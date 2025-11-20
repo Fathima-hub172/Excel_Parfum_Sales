@@ -20,7 +20,8 @@ It includes PivotTables, charts, and a dashboard to help visualize performance t
 ## 🛠️ Tools & Techniques
 - Excel PivotTables  
 - Conditional Formatting  
-- Line, Bar, and Map Charts  
+- Line, Bar, and Map Charts
+- slicers,filters and Timelines  
 - Forecasting with Trendlines  
 ## 📜 License
 This project is licensed under the MIT License — feel free to use and adapt.
