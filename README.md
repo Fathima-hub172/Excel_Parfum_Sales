@@ -13,7 +13,7 @@ It includes PivotTables, charts, and a dashboard to help visualize performance t
 - `SalesData.xlsx` → Raw and cleaned sales data  
 - `Dashboard.xlsx` → Interactive dashboard with charts and KPIs  
 - `README.md` → Documentation of project and insights
--## 🚀 How to Use
+## 🚀 How to Use
 1. Download the Excel files from this repository.
 2. Open `Dashboard.xlsx` to explore the interactive charts.
 3. Use slicers and filters to drill down into specific regions or products.
